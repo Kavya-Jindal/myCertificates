@@ -17,7 +17,6 @@
 <ul>
       <li>Cyber Security</li>
       <li>Cloud Computing</li>
-      
-    </ul>
+</ul>
 
 
