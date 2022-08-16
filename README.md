@@ -1,13 +1,23 @@
 # myCertificates
 
 <p><b>Programming</b></p>
-- Python Programming
-- Object Oriented Programming in Java
-- Design And Analysis of Algorithms
+<ul>
+      <li>Python Programming</li>
+      <li>Object Oriented Programming in Java</li>
+      <li>Design And Analysis of Algorithms</li>
+    </ul>
 <p><b>Full Stack Development</b></p>
-- Front End
-- Javascript
-- Advanced Web Development
+<ul>
+      <li>Front End</li>
+      <li>Javascript</li>
+      <li>Advanced Web Development</li>
+    </ul>
+
 <p><b>Others</b></p>
-- Cyber Security
-- Cloud Computing
+<ul>
+      <li>Cyber Security</li>
+      <li>Cloud Computing</li>
+      
+    </ul>
+
+
